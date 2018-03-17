@@ -1,0 +1,33 @@
+{
+    "name": "vivid-midnight-theme",
+    "displayName": "Vivid Midnight Theme by mrGibi",
+    "description": "A combination of Material Theme and Monokai syntax colors.",
+    "version": "1.0.0",
+    "publisher": "mrGibi",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "vivid",
+        "midnight"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vivid Midnight Theme by mrGibi",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Vivid-Midnight.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://gitlab.com/mrGibi/vscode-vivid-midnight-theme.git"
+    },
+    "bugs": {
+        "url": "https://gitlab.com/mrGibi/vscode-vivid-midnight-theme/issues"
+    }
+}
