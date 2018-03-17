@@ -1,0 +1,39 @@
+{
+	"name": "vivid-midnight-theme",
+	"displayName": "Vivid Midnight Theme by mrGibi",
+	"description": "A VSCode theme inspired by Material Theme (by Mattia Astorino) and Monokai++ (by Davide Casella).",
+	"version": "1.0.0",
+	"publisher": "mrGibi",
+	"engines": {
+		"vscode": "^1.21.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"vivid",
+		"midnight",
+		"colorful",
+		"dark",
+		"monokai"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Vivid Midnight Theme by mrGibi",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Vivid-Midnight.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://gitlab.com/mrGibi/vscode-vivid-midnight-theme.git"
+	},
+	"bugs": {
+		"url": "https://gitlab.com/mrGibi/vscode-vivid-midnight-theme/issues"
+	},
+	"__metadata": {
+		"size": 26665381
+	}
+}
