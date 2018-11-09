@@ -196,7 +196,8 @@
                 "support.function.general.tex",
                 "support.function.section.latex",
                 "punctuation.dollar.js",
-                "keyword.operator.arithmetic.perl"
+                "keyword.operator.arithmetic.perl",
+                "keyword.operator.filetest.perl"
             ],
             "settings": {
                 "foreground": "#F92572"
