@@ -112,7 +112,9 @@
         {
             "name": "Whites",
             "scope": [
-                "source.perl keyword.operator"
+                "keyword.operator.assignment",
+                "keyword.operator.comparison.perl",
+                "keyword.operator.class",
             ],
             "settings": {
                 "foreground": "#ffffff"
@@ -147,7 +149,11 @@
         },
         {
             "name": "String",
-            "scope": "string",
+            "scope": [
+                "string",
+                "keyword.other.sql",
+                "keyword.other.DML",
+            ],
             "settings": {
                 "foreground": "#FFD866"
             }
@@ -198,8 +204,7 @@
                 "support.function.general.tex",
                 "support.function.section.latex",
                 "punctuation.dollar.js",
-                "keyword.operator.arithmetic.perl",
-                "keyword.operator.filetest.perl"
+                
             ],
             "settings": {
                 "foreground": "#F92572"
@@ -281,7 +286,7 @@
                 "punctuation"
             ],
             "settings": {
-                "foreground": "#CCCCCC"
+                "foreground": "#ffffff"
             }
         },
         {
