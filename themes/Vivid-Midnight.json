@@ -119,6 +119,8 @@
                 "keyword.operator.assignment",
                 "keyword.operator.comparison.perl",
                 "keyword.operator.class",
+                "keyword.operator.key",
+                "keyword.operator.string"
             ],
             "settings": {
                 "foreground": "#ffffff"
