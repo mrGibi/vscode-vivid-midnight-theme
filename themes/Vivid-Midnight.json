@@ -130,7 +130,8 @@
                 "keyword.operator.comparison.perl",
                 "keyword.operator.class",
                 "keyword.operator.key",
-                "keyword.operator.string"
+                "keyword.operator.string",
+                "storage.type.function.arrow"
             ],
             "settings": {
                 "foreground": "#ffffff"
@@ -268,7 +269,8 @@
                 "support.variable",
                 "support.type.property-name.json",
                 "entity.other.attribute-name",
-                "meta.property-name.css"
+                "meta.property-name.css",
+                "meta.object-literal.key"
             ],
             "settings": {
                 "foreground": "#AFEC38"
@@ -290,7 +292,8 @@
             "name": "Class",
             "scope": [
                 "entity.name.type.class",
-                "support.class"
+                "support.class",
+                "variable.language.this.js"
             ],
             "settings": {
                 "foreground": "#AE81FF"
@@ -339,7 +342,8 @@
                 "meta.function-call",
                 "support.function",
                 "variable.other.makefile",
-                "variable.other.prolog"
+                "variable.other.prolog",
+                "entity.name.type",
             ],
             "settings": {
                 "foreground": "#49E0FD"
