@@ -1,7 +1,7 @@
 {
     "name": "vivid-midnight-theme",
     "displayName": "Vivid Midnight Theme by mrGibi",
-    "description": "A combination of Material Theme and Monokai syntax colors.",
+    "description": "A VSCode theme inspired by Material Theme (by Mattia Astorino) and Monokai++ (by Davide Casella).",
     "version": "1.0.0",
     "publisher": "mrGibi",
     "engines": {
@@ -12,7 +12,10 @@
     ],
     "keywords": [
         "vivid",
-        "midnight"
+        "midnight",
+        "colorful",
+        "dark",
+        "monokai"
     ],
     "contributes": {
         "themes": [
