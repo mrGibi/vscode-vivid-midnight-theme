@@ -115,7 +115,7 @@
         "tab.inactiveModifiedBorder": "#00A5FCaa", 
         "tab.border": "#12191d",
         "tab.inactiveBackground": "#12191d",
-        "tab.inactiveForeground": "#5e738050",
+        "tab.inactiveForeground": "#5e7380bb",
         "tab.unfocusedInactiveForeground": "#5e738050",
         "tab.unfocusedActiveForeground": "#5e7380aa",
         "terminal.background": "#12191d",
