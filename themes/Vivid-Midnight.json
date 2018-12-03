@@ -296,7 +296,6 @@
             "scope": [
                 "entity.name.type.class",
                 "support.class",
-                "variable.language.this.js",
                 "entity.name.class",
                 "support.other.namespace",
                 "support.other.namespace.php punctuation.separator.inheritance.php",
