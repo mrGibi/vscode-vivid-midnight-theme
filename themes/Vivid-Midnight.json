@@ -350,6 +350,7 @@
                 "variable.other.makefile",
                 "variable.other.prolog",
                 "entity.name.type",
+                "meta.interface.ts entity.other.inherited-class.ts"
             ],
             "settings": {
                 "foreground": "#49E0FD"
