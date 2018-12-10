@@ -143,7 +143,9 @@
         },
         {
             "name": "Italics",
-            "scope": ["support.type.primitive"],
+            "scope": [
+                "support.type.primitive"
+            ],
             "settings": {
                 "fontStyle": "italic"
             }
@@ -177,7 +179,11 @@
         },
         {
             "name": "String",
-            "scope": ["string", "keyword.other.sql", "keyword.other.DML"],
+            "scope": [
+                "string",
+                "keyword.other.sql",
+                "keyword.other.DML"
+            ],
             "settings": {
                 "foreground": "#FFD866"
             }
@@ -209,7 +215,10 @@
         },
         {
             "name": "Constants",
-            "scope": ["constant", "support.constant"],
+            "scope": [
+                "constant",
+                "support.constant"
+            ],
             "settings": {
                 "foreground": "#2BE98a"
             }
@@ -281,7 +290,9 @@
         },
         {
             "name": "Variables this",
-            "scope": ["variable.language.this"],
+            "scope": [
+                "variable.language.this"
+            ],
             "settings": {
                 "fontStyle": "italic"
             }
@@ -314,14 +325,21 @@
         },
         {
             "name": "Punctuation",
-            "scope": ["punctuation", "meta.brace.round", "meta.brace.square", "source.perl"],
+            "scope": [
+                "punctuation",
+                "meta.brace.round",
+                "meta.brace.square",
+                "source.perl"
+            ],
             "settings": {
                 "foreground": "#738c9c"
             }
         },
         {
             "name": "Tags",
-            "scope": ["entity.name.tag"],
+            "scope": [
+                "entity.name.tag"
+            ],
             "settings": {
                 "foreground": "#f92672"
             }
@@ -335,12 +353,13 @@
         },
         {
             "name": "Css prop value",
-            "scope": ["meta.property-value.css support.constant"],
+            "scope": [
+                "meta.property-value.css support.constant"
+            ],
             "settings": {
                 "foreground": "#AE81FF"
             }
         },
-
         {
             "name": "Functions",
             "scope": [
@@ -388,7 +407,10 @@
         },
         {
             "name": "Markup quote",
-            "scope": ["markup.quote", "markup.raw.block"],
+            "scope": [
+                "markup.quote",
+                "markup.raw.block"
+            ],
             "settings": {
                 "foreground": "#696d70"
             }
@@ -402,7 +424,10 @@
         },
         {
             "name": "Markdown link",
-            "scope": ["string.other.link.title.markdown", "string.other.link.description.markdown"],
+            "scope": [
+                "string.other.link.title.markdown",
+                "string.other.link.description.markdown"
+            ],
             "settings": {
                 "foreground": "#49e0fd"
             }
@@ -437,7 +462,10 @@
         },
         {
             "name": "Markup inline",
-            "scope": ["markup.inline", "markup.raw.inline"],
+            "scope": [
+                "markup.inline",
+                "markup.raw.inline"
+            ],
             "settings": {
                 "foreground": "#ae81ff"
             }
