@@ -285,7 +285,8 @@
                 "meta.object-literal.key"
             ],
             "settings": {
-                "foreground": "#AFEC38"
+                "foreground": "#a9df3f"
+                // "foreground": "#AFEC38"
             }
         },
         {
