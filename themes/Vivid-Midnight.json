@@ -471,41 +471,6 @@
                 "foreground": "#ae81ff"
             }
         },
-        {
-            "name": "GitGutter deleted",
-            "scope": "markup.deleted.git_gutter",
-            "settings": {
-                "foreground": "#f92672"
-            }
-        },
-        {
-            "name": "GitGutter inserted",
-            "scope": "markup.inserted.git_gutter",
-            "settings": {
-                "foreground": "#2be98a"
-            }
-        },
-        {
-            "name": "GitGutter changed",
-            "scope": "markup.changed.git_gutter",
-            "settings": {
-                "foreground": "#ae81ff"
-            }
-        },
-        {
-            "name": "GitGutter ignored",
-            "scope": "markup.ignored.git_gutter",
-            "settings": {
-                "foreground": "#696d70"
-            }
-        },
-        {
-            "name": "GitGutter untracked",
-            "scope": "markup.untracked.git_gutter",
-            "settings": {
-                "foreground": "#696d70"
-            }
-        }
     ],
-    "uuid": "4651cee0-9b86-4121-8ba9-22c2bd97d4a4"
+    "uuid": "915670d6-8519-4cf9-952f-1c576d47926f"
 }
