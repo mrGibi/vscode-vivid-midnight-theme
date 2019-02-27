@@ -301,7 +301,8 @@
                 "support.type.property-name.json",
                 "entity.other.attribute-name",
                 "meta.property-name.css",
-                "meta.object-literal.key"
+                "meta.object-literal.key",
+                "entity.name.label"
             ],
             "settings": {
                 "foreground": "#a9df3f"
