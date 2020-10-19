@@ -21,7 +21,7 @@
         "dropdown.background": "#263238",
         "dropdown.border": "#00000030",
         "dropdown.foreground": "#5e7380",
-        "editor.background": "#192429",
+        "editor.background": "#172125",
         "editor.findMatchHighlightBackground": "#007AD380",
         "editor.foreground": "#ffffff",
         "editor.inactiveSelectionBackground": "#007AD380",
@@ -36,7 +36,7 @@
         "editorGroupHeader.tabsBackground": "#12191d",
         "editorGroup.dropBackground": "#00000090",
         "editorGutter.addedBackground": "#AFEC38",
-        "editorGutter.background": "#192429",
+        "editorGutter.background": "#172125",
         "editorGutter.deletedBackground": "#F92572",
         "editorGutter.modifiedBackground": "#00A5FC",
         "editorHoverWidget.background": "#12191d",
@@ -58,7 +58,7 @@
         "editorSuggestWidget.border": "#00000090",
         "editorSuggestWidget.foreground": "#5e7380",
         "editorSuggestWidget.highlightForeground": "#00A5FC",
-        "editorSuggestWidget.selectedBackground": "#00000090",
+        "editorSuggestWidget.selectedBackground": "#000000cc",
         "editorWarning.foreground": "#FCA24C",
         "editorWidget.background": "#12191d",
         "editorWidget.border": "#00000090",
@@ -104,7 +104,6 @@
         "sideBarSectionHeader.foreground": "#ffffff",
         "statusBar.background": "#12191d",
         "statusBar.debuggingBackground": "#FCA24C",
-        // "statusBar.debuggingBorder": "#ff0000",
         "statusBar.debuggingForeground": "#12191d",
         "statusBar.noFolderBackground": "#12191d",
         "statusBar.foreground": "#5e7380",
@@ -119,6 +118,7 @@
         "tab.unfocusedInactiveForeground": "#5e738050",
         "tab.unfocusedActiveForeground": "#5e7380aa",
         "terminal.background": "#12191d",
+        "terminal.border": "#172125",
         "terminal.foreground": "#94a7b3",
         "terminalCursor.foreground": "#afec38",
         "terminal.selectionBackground": "#007AD380",
@@ -315,7 +315,8 @@
                 "variable.language.this"
             ],
             "settings": {
-                "fontStyle": "italic"
+                "fontStyle": "italic",
+                "foreground": "#AE81FF"
             }
         },
         {
