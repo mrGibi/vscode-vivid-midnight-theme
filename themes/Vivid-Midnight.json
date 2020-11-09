@@ -12,6 +12,7 @@
         "activityBarBadge.foreground": "#ffffff",
         "badge.background": "#007AD3bb",
         "badge.foreground": "#ffffff",
+        "breadcrumb.foreground": "#5e738060",
         "button.background": "#007AD3",
         "button.hoverBackground": "#00A5FC",
         "button.foreground": "#ffffff",
