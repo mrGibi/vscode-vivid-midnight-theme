@@ -53,7 +53,7 @@
         "editorOverviewRuler.deletedForeground": "#F92572",
         "editorOverviewRuler.modifiedForeground": "#00A5FC",
         "editorOverviewRuler.errorForeground": "#ff0000",
-        "editorOverviewRuler.warningForeground": "#FCA24C",
+        "editorOverviewRuler.warningForeground": "#ff8d21",
         "editorOverviewRuler.findMatchForeground": "#8400ff",
         "editorOverviewRuler.selectionHighlightForeground": "#8400ff",
         "editorPane.background": "#0c1113",
@@ -63,13 +63,13 @@
         "editorSuggestWidget.foreground": "#5e7380",
         "editorSuggestWidget.highlightForeground": "#00A5FC",
         "editorSuggestWidget.selectedBackground": "#070a0b",
-        "editorWarning.foreground": "#FCA24C",
+        "editorWarning.foreground": "#ff8d21",
         "editorWidget.background": "#0c1113",
         "editorWidget.border": "#070a0b",
         "editorWidget.foreground": "#ffffff",
         "focusBorder": "#172125",
         "gitDecoration.addedResourceForeground": "#FFD866",
-        "gitDecoration.conflictingResourceForeground": "#FCA24C",
+        "gitDecoration.conflictingResourceForeground": "#ff8d21",
         "gitDecoration.deletedResourceForeground": "#F92572",
         "gitDecoration.ignoredResourceForeground": "#5e738060",
         "gitDecoration.modifiedResourceForeground": "#00A5FC",
@@ -88,7 +88,7 @@
         "list.hoverForeground": "#ffffff",
         "list.inactiveSelectionBackground": "#050707",
         "list.inactiveSelectionForeground": "#ffffff",
-        "list.warningForeground": "#FCA24C",
+        "list.warningForeground": "#ff8d21",
         "notificationCenter.border": "#070a0b",
         "notificationCenterHeader.background": "#0c1113",
         "notifications.background": "#0c1113",
@@ -112,7 +112,7 @@
         "sideBarSectionHeader.background": "#070a0b",
         "sideBarSectionHeader.foreground": "#ffffff",
         "statusBar.background": "#0c1113",
-        "statusBar.debuggingBackground": "#FCA24C",
+        "statusBar.debuggingBackground": "#ff8d21",
         "statusBar.debuggingForeground": "#0c1113",
         "statusBar.noFolderBackground": "#0c1113",
         "statusBar.foreground": "#5e7380",
@@ -240,7 +240,7 @@
                 "string.regexp.replace.perl"
             ],
             "settings": {
-                "foreground": "#FCA24C"
+                "foreground": "#ff8d21"
             }
         },
         {
@@ -283,7 +283,7 @@
                 "variable.other.constant.ruby"
             ],
             "settings": {
-                "foreground": "#FCA24C"
+                "foreground": "#ff8d21"
             }
         },
         {
@@ -339,7 +339,7 @@
                 "string.quoted constant.character.format.placeholder.other"
             ],
             "settings": {
-                "foreground": "#FCA24C"
+                "foreground": "#ff8d21"
             }
         },
         {
