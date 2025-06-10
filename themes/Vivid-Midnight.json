@@ -2,6 +2,7 @@
     // https://maketintsandshades.com/#172125 - tla
     "$schema": "vscode://schemas/color-theme",
     "author": "gibi",
+    "name": "Vivid Midnight by gibi",
     "colors": {
         "activityBar.activeBorder": "#007AD3",
         "activityBar.background": "#0c1113",
@@ -46,9 +47,10 @@
         "editorGutter.commentRangeForeground": "#5e738060",
         "editorGutter.deletedBackground": "#F92572",
         "editorGutter.modifiedBackground": "#00A5FC",
+        "editorGutter.foldingControlForeground": "#5e7380",
         "editorHoverWidget.background": "#0c1113",
-        "editorIndentGuide.activeBackground": "#5e738060",
-        "editorIndentGuide.background": "#5e738010",
+        "editorIndentGuide.activeBackground1": "#5e738060",
+        "editorIndentGuide.background1": "#5e738010",
         "editorLineNumber.activeForeground": "#ffffff",
         "editorLineNumber.foreground": "#5e738040",
         "editorOverviewRuler.addedForeground": "#AFEC38",
@@ -56,9 +58,9 @@
         "editorOverviewRuler.bracketMatchForeground": "#090d0f",
         "editorOverviewRuler.deletedForeground": "#F92572",
         "editorOverviewRuler.errorForeground": "#ff0000",
-        "editorOverviewRuler.findMatchForeground": "#8400ff",
+        "editorOverviewRuler.findMatchForeground": "#8400ff99",
         "editorOverviewRuler.modifiedForeground": "#00A5FC",
-        "editorOverviewRuler.selectionHighlightForeground": "#8400ff",
+        "editorOverviewRuler.selectionHighlightForeground": "#8400ff99",
         "editorOverviewRuler.warningForeground": "#ff8d21",
         "editorPane.background": "#0c1113",
         "editorRuler.foreground": "#0c1113",
@@ -161,7 +163,6 @@
         "tree.indentGuidesStroke": "#5e738020",
         "widget.shadow": "#00000000"
     },
-    "name": "Vivid Midnight",
     "tokenColors": [
         {
             "name": "Operators",
