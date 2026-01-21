@@ -2,7 +2,7 @@
 	"name": "vivid-midnight",
 	"displayName": "Vivid Midnight",
 	"description": "",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"engines": {
 		"vscode": "*"
 	},
